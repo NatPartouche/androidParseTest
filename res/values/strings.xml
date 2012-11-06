@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">TagAndTry</string>
+    <string name="title_section3">Looks</string>
+    <string name="title_section2">Deals</string>
+    <string name="title_section1">Shops</string>
+    <string name="title_section4">My tags</string>
+    <string name="title_section5">Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">TagAndTry</string>
+    <string name="title_activity_test">TagAndTry</string>
+    <string name="title_activity_next">NextActivity</string>
+
+</resources>
